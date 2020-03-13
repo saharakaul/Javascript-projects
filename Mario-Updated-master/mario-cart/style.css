@@ -1,0 +1,15 @@
+body {
+    background-image: url('Images/mario-cart.jpg');
+    font-family: 'Supermercado One', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
